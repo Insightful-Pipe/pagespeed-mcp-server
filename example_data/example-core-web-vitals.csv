@@ -1,0 +1,7 @@
+url,device,performance_score,lcp_ms,fid_ms,cls,fcp_ms,ttfb_ms,tti_ms,tbt_ms,speed_index
+https://example.com/,mobile,72,2840,95,0.12,1680,420,4200,380,3200
+https://example.com/,desktop,89,1420,45,0.05,980,280,2100,120,1800
+https://example.com/products,mobile,58,3850,180,0.24,2400,580,5800,620,4500
+https://example.com/products,desktop,78,1980,65,0.08,1200,320,2800,180,2200
+https://example.com/blog,mobile,81,2100,72,0.08,1450,380,3400,240,2600
+https://example.com/blog,desktop,94,1050,32,0.02,720,220,1650,80,1400

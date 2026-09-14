@@ -1,0 +1,7 @@
+url,opportunity,potential_savings_ms,current_value,recommendation
+https://example.com/,render-blocking-resources,1240,8 resources,"Defer non-critical CSS/JS"
+https://example.com/,unused-javascript,680,245 KB,"Remove unused code or code-split"
+https://example.com/,unoptimized-images,520,1.2 MB,"Compress and serve next-gen formats"
+https://example.com/products,unused-css,380,142 KB,"Remove unused CSS rules"
+https://example.com/products,server-response-time,450,680ms TTFB,"Improve server response time"
+https://example.com/blog,offscreen-images,290,8 images,"Lazy load offscreen images"
